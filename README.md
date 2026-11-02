@@ -1,4 +1,4 @@
-Estudo de viabilidade de mercado da turnê BTS ARIRANG em países africanos.
+
 # BTS ARIRANG — Africa Market Analysis 
 
 ## Sobre o projeto
